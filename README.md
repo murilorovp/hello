@@ -3,4 +3,4 @@ sec repository
 
 Hi,
 
-  This is my second rpository and i am trying to learn more about github!
+  This is my second repository and i am trying to learn more about github!
